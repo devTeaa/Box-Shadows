@@ -171,6 +171,11 @@ const shadows = [
 		"shadow": "inset 0px 0px 38px -24px #d9534f",
 		"border": "0"
 	},
+	{
+		"name": "Floating Button",
+		"shadow": "0px 17px 10px -10px rgba(0,0,0,0.4)",
+		"border": "1px solid"
+	}
 ]
 
 
